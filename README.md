@@ -1,0 +1,2 @@
+# my-school-today
+My School Today! aims to support students and local communities to geo-reference their schools and education facilities as part of an effort to promote timely information on school locations in Africa. To support the call to action, the UN Sustainable Development Solutions Network’s SDGs Today is providing an accessible product using open source data to share national population counts within various travel distances and times from recorded educational facilities.
